@@ -1,3 +1,5 @@
+https://diana-dedo.github.io/Rss-bug-hunting/
+
 # 🐞 Bug Hunting — RS School
 
 Учебный проект для курса RS School Fullstack Engineering (Неделя 5). Пять небольших страниц, в каждой спрятаны намеренные баги. Задача — найти и исправить их все, опираясь на описание ожидаемого поведения.
